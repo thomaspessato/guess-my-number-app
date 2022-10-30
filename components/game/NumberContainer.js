@@ -22,8 +22,8 @@ const styles = StyleSheet.create({
   },
   numberText: {
     fontSize: 40,
+    fontFamily: "open-sans-bold",
     textAlign: "center",
-    fontWeight: "bold",
     color: Colors.accent500,
   },
 });

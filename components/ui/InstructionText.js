@@ -12,6 +12,7 @@ function InstructionText({ children, style }) {
 const styles = StyleSheet.create({
   text: {
     fontSize: 20,
+    fontFamily: "open-sans",
     color: Colors.accent500,
     textAlign: "center",
     marginBottom: 15,
